@@ -1,6 +1,7 @@
 # Hospital-Database by Masha M. Stephen & Tariqur Nur
 
 SUMMARY OF THE PROJECT 
+
 •	Motivation
 
 Hospitals make crucial decisions on life, patients and the kind of service that they need. We wanted a database that has all the activities and roles of all the people taking part in transactions and day to day activities in the hospital. Only people with access to the hospital can view and use the database. 
